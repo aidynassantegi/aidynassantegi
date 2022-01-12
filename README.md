@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aidynassantegi
 - 👀 I’m interested in swift and java
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and swift
 - 💞️ I’m looking to collaborate on junior projects
-- 📫 How to reach me - text me in telegram @aidynfire
+- 📫 How to reach me - text me in telegram @aidynassantegi
 
 <!---
 aidynassantegi/aidynassantegi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
