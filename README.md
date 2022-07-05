@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aidynassantegi
 - 👀 I’m interested in swift and java
 - 🌱 I’m currently learning java and swift
-- 💞️ I’m looking to collaborate on junior projects
+- 💞️ I’m looking to collaborate on finance projects
 - 📫 How to reach me - text me in telegram @aidynassantegi
 
 <!---
